@@ -1,0 +1,35 @@
+/* Global ================================================================= */
+body {
+    background-color: #b7b7a4;
+    font-family: 'Quicksand', sans-serif;
+}
+
+/* .container-title {
+    width: 100%;
+    height: 10020px;
+} */
+
+.sr-only {
+    position: absolute;
+
+}
+
+.transition {
+    font-size: 42px
+}
+
+.tile-container {
+    background-color: #004733;
+    border-radius: 5px
+}
+
+#total-card {
+    background-color: #2b9348;
+}
+
+.card {
+    border-radius: 5px;
+    background-color: #e8e8e8;
+    font-weight: bold;
+    font-size: 30px;
+}
